@@ -9,13 +9,13 @@
 
 Bilgisayarlara gerekli araçları kuracağız ve "merhaba dünya" seviyesinde ilk web sayfasını çalıştırıp herkesin ortamının hazır olduğunu doğrulayacağız.
 
-> **Eğitmen notu:** Bu dersi laboratuvarda **dersten önce** bir kez kendin baştan sona yap. Kurulumlar internet hızına bağlı olarak 20-40 dakika sürebilir. Mümkünse kurulum dosyalarını USB'ye veya ortak ağ klasörüne önceden indir.
+
 
 ---
 
 ## 📖 Kavram: Neye ihtiyacımız var?
 
-Öğrencilere tahtaya şunu çiz:
+
 
 ```
 ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
